@@ -1,0 +1,7 @@
+######## Require packages ########
+numpy
+pandas
+pandas-datareader
+alpaca-trade-api
+matplotlib
+git+https://github.com/AI4Finance-LLC/FinRL-Library.git
